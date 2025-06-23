@@ -18,8 +18,6 @@ public class Main {
 
         System.out.printf("%.3f%n", combustivel);
 
-        sc.close();
-
     }
 
 }
